@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MTA NYC API -->
+
+    <!-- This feed includes real-time data from the: 1, 2, 3, 4, 5, 6, S Lines -->
+    <string name="mta_subway_realtime_feed_base_url">http://datamine.mta.info/mta_esi.php?key="%1$s"&amp;feed_id=1</string>
+    
+    <!-- This feed includes real-time data from the: L Line -->
+    <string name="mta_subway_realtime_feed_base_url2">http://datamine.mta.info/mta_esi.php?key="%1$s"&amp;feed_id=2</string>
+    
+    <!-- This feed includes real-time data from the: Staten Island Railway -->
+    <string name="mta_subway_realtime_feed_base_url22">http://datamine.mta.info/mta_esi.php?key="%1$s"&amp;feed_id=11</string>
+    
+    <string name="mta_api_key">70f06878f2d0cd6a99bbc7ebf740816e</string>
+
+</resources>

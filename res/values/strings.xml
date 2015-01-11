@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- API Info -->
+    <string name="api_base_url">http://bustime.mta.info/api/where/routes-for-agency/MTA NYCT.json?key="%1$s"</string>
+    <string name="api_key">4a160d75-7e28-4592-b369-bb65f626f9e2</string>
+    
+    <string name="app_name">MTA Bus Tracker</string>
+    <string name="bus_route_id">bus_route_id</string>
+
+    <!-- Message -->
+    <string name="msg_loading">Loading...</string>
+
+</resources>
